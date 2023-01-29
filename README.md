@@ -4,7 +4,7 @@
 8-888-888-88-88
 kolunya0@gmail.com
 
-![Фото](C:\Users\Nikolay\Desktop\resume\IMG_20200309_152414.jpg)
+![Фото](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS8z3HlHdqe9YFyKQ1eYldQjeBsitM5O5hpA&usqp=CAU)
 
 ## Резюме
 
