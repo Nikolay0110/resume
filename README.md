@@ -4,7 +4,7 @@
 8-888-888-88-88
 kolunya0@gmail.com
 
-[Фото][def]
+![Фото](C:\Users\Nikolay\Desktop\resume\IMG_20200309_152414.jpg)
 
 ## Резюме
 
@@ -14,5 +14,3 @@ kolunya0@gmail.com
  
  1. Высшее МГТУ(Технологически факультет) окончен в 2018г по специльности Инженер-архитектор
  2. Курсы Netology - Full-stack разработчик на Python
-
-[def]: C:/users/nikolay/desctop/Снимок1.JPG
